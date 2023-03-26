@@ -1,4 +1,4 @@
-# e-commerce-website-sales-analysis-using-Power-BI
+# ecommerce-website-sales-analysis-using-Power-BI
 
 Steps involved during working on project:
 
