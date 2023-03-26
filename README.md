@@ -11,4 +11,4 @@ Steps involved during working on project:
 
 Creating Visualizations: In Power BI, created several visualizations to show the results of your RFM analysis. These visualizations included charts, graphs, and tables that highlight important metrics like customer purchase frequency, and average order value.
 
-.
+
