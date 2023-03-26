@@ -8,6 +8,6 @@ Steps involved during working on project:
 
 3.Exporting the Data to Power BI: After completing the RFM analysis in Jupyter Notebook, exported the cleaned data to Power BI. Power BI is a powerful tool for data visualization that enables us to create interactive reports and dashboards that showcase the insights generated from the data.
 
-Creating Visualizations: In Power BI, created several visualizations to show the results of your RFM analysis. These visualizations included charts, graphs, and tables that highlight important metrics like customer purchase frequency, and average order value.
+4.Creating Visualizations: In Power BI, created several visualizations to show the results of your RFM analysis. These visualizations included charts, graphs, and tables that highlight important metrics like customer purchase frequency, and average order value.
 
 
